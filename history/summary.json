@@ -1,20 +1,20 @@
 [
   {
-    "name": "Tienda",
+    "name": "Tienda web (tiendaharucosas.cl)",
     "url": "https://www.tiendaharucosas.cl",
     "icon": "https://favicons.githubusercontent.com/www.tiendaharucosas.cl",
-    "slug": "tienda",
+    "slug": "tienda-web-tiendaharucosas-cl",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 911,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   }
 ]
