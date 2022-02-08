@@ -12,7 +12,6 @@ status-website:
   # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   baseUrl: /harucosas-status # where "repo" is your repository name
-  name: harucosas status
   logoUrl: https://tiendaharucosas.cl/img/tienda-haru-cosas-logo-1609218000.jpg
   name: Harucosas Status
   introTitle: "**HaruCosas Status Page** "
