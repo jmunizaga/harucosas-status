@@ -4,7 +4,7 @@
     "url": "https://www.tiendaharucosas.cl",
     "icon": "https://favicons.githubusercontent.com/www.tiendaharucosas.cl",
     "slug": "tienda-web-tiendaharucosas-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 840,
     "timeMonth": 843,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-25": 0
+    }
   }
 ]
