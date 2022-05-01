@@ -4,19 +4,19 @@
     "url": "https://www.tiendaharucosas.cl",
     "icon": "https://favicons.githubusercontent.com/www.tiendaharucosas.cl",
     "slug": "tienda-web-tiendaharucosas-cl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 1115,
-    "timeWeek": 895,
-    "timeMonth": 856,
-    "timeYear": 819,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 817,
+    "timeDay": 887,
+    "timeWeek": 868,
+    "timeMonth": 850,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2022-05-01": 0
+      "2022-05-01": 12
     }
   }
 ]
