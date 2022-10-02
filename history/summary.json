@@ -2,7 +2,7 @@
   {
     "name": "Tienda web (tiendaharucosas.cl)",
     "url": "https://www.tiendaharucosas.cl",
-    "icon": "https://favicons.githubusercontent.com/www.tiendaharucosas.cl",
+    "icon": "https://icons.duckduckgo.com/ip3/www.tiendaharucosas.cl.ico",
     "slug": "tienda-web-tiendaharucosas-cl",
     "status": "up",
     "uptime": "99.99%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 907,
-    "timeDay": 1577,
-    "timeWeek": 992,
-    "timeMonth": 968,
-    "timeYear": 907,
+    "time": 908,
+    "timeDay": 1137,
+    "timeWeek": 994,
+    "timeMonth": 962,
+    "timeYear": 908,
     "dailyMinutesDown": {
       "2022-06-21": 24
     }
