@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tiendaharucosas.cl.ico",
     "slug": "tienda-web-tiendaharucosas-cl",
     "status": "down",
-    "uptime": "62.08%",
+    "uptime": "62.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.19%",
-    "time": 1057,
+    "uptimeYear": "25.15%",
+    "time": 1054,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2024-01-30": 67,
+      "2024-01-31": 67,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -289,8 +290,7 @@
       "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
-      "2023-05-02": 157,
-      "2023-01-31": 132
+      "2023-05-02": 157
     }
   }
 ]
